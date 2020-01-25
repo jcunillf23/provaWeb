@@ -1,0 +1,52 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway", sans-serif
+}
+
+body,
+html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+
+/* Full height image header */
+
+.bgimg-1 {
+    background-size: cover;
+    background-image: url("/w3images/Laia_i_Pau.jpg");
+    min-height: 100%;
+}
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
+
+.link {
+    cursor: pointer;
+    text-decoration: underline;
+    color: #00f;
+}
+
+.enlace {
+    color: #00f;
+}
+
+#contenido {
+    border: 1px #bababa solid;
+    min-height: 50px;
+}
+
+.clock {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 20px;
+}
